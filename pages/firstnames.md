@@ -3,7 +3,7 @@ layout: page
 title: Address people on a first name basis
 permalink: /firstnames/
 ---
-## 
+ 
 One of the first instances I came across this practice of addressing people by their first names was in my college basketball team. I was in my first year and one of the seniors, Anoop John, who knew I used to play in the school basketball team asked me to come for selection trials for the college team. I did turn up and that was my first run in with Xavier. Before I go on, a note on Xavier. He is one of the most fantastic human beings I have ever come across in life. More on that in another post perhaps.
 
 So Xavier was a final year student and also the captain of our basketball team. A gifted player, he once shared with me his story of how he ended up in engineering college. He never fancied himself doing engineering much less doing engineering from CET apparently. A key trivia Xavier while narrating to me how he ended up in engineering college was that he had made use of the backside of the entrance examination hall ticket for tabulation of the scores of the card game that very night after the entrance. It so happened that he did manage to secure an admit in CET via the sports quota. Xavier was unsure to whether or not to take it up and that’s when his the basketball coach, Antony Sir, that guided him not to turn down the opportunity.
