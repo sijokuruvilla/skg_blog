@@ -1,8 +1,10 @@
 ---
 layout: page
 title: First Name Basis
-permalink: /fistnames/
+permalink: /firstnamebasis
 ---
+
+Address people on a first name basis. 
 
 One of the first instances I came across this practice of addressing people by their first names was in my college basketball team. I was in my first year and one of the seniors, Anoop John, who knew I used to play in the school basketball team asked me to come for selection trials for the college team. I did turn up and that was my first run in with Xavier. Before I go on, a note on Xavier. He is one of the most fantastic human beings I have ever come across in life. More on that in another post perhaps.
 
@@ -16,7 +18,7 @@ My second run in with the culture of addressing people by first names happened i
 
 We are all peers working towards common outcomes, with each person contributing in ways that he or she can. 
 
-Address people on a first name basis. 
+
 
 
 
