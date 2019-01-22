@@ -28,8 +28,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-  header_pages:
+header_pages:
   - about.md
+  - profile.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
