@@ -1,7 +1,7 @@
 ---
 layout: page
 title: First Name Basis
-permalink: /firstnamebasis
+permalink: /firstnames/
 ---
 
 Address people on a first name basis. 
@@ -17,8 +17,3 @@ So as a result of this culture set in motion by Xavier, we all addressed each ot
 My second run in with the culture of addressing people by first names happened in Infosys. It was during the induction period with one of the learning facilitators. Unfortunately I do not remember the name of the person. After one her sessions, I walked up to her and ended up addressing her as &lt;name&gt; madam. That’s when she stopped me and guided me to address her by her first name. When I conveyed my discomfort in addressing someone much senior and elder to me by her first name, she helped me understand that it was the professional thing to do and that Infosys was an organisation that abided by that practice. She then went on to say that even if I run in to Nandan or NRN, you address them by names and not with Sir tag. And at that point, what she articulated has stuck with me since.
 
 We are all peers working towards common outcomes, with each person contributing in ways that he or she can. 
-
-
-
-
-
