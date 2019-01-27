@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Sijo Kuruvilla George
 
 ---
 Best way to reach me <br>
