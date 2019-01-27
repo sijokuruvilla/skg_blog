@@ -6,7 +6,10 @@ layout: page
 title: Sijo Kuruvilla George
 
 ---
-Best way to reach me <br>
+This is my personal website. <br>
+For capturing notes about me and my work. <br>
+Best way to reach me is email. Or Twitter. <br>
+
 I don't accept mementos <br>
 Feel free to mute me on Twitter <br>
 [Address people on a first name basis](https://www.sijokuruvilla.in/firstnames/) <br>
