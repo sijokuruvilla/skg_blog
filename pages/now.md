@@ -13,3 +13,5 @@ I undertake independent consulting engagements. Usually have a max of two at a t
 I also have voluntary advisory or guidance roles with few startups -- in addition to curating a circle of founders & angels from Kerala. 
 
 Aside of all that, I end up spending an inordinate amount of time playing board games and helping others discover the joy of board games.
+
+Last updated: 1 Nov, 2018
