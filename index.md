@@ -10,21 +10,10 @@ layout: page
 ### Sijo Kuruvilla George
 
 This is my personal website. <br>
-For capturing notes about me and my work. <br>
+For capturing my notes. <br>
+About me, my thoughts and my work. <br>
+
 Best way to reach me is email. Or Twitter. <br>
+And now looking at replacing this with a bot implementation <br>
 
-**About**
-
-What am I upto now <br>
-My story in breif <br>
-I still receive queries related to Startup Village <br>
-
-**Notes**
-
-Best way to reach me <br>
-Feel free to mute me on Twitter <br>
-[Address people on a first name basis](https://www.sijokuruvilla.in/firstnames/) <br>
-[Don't ask for connects](https://www.sijokuruvilla.in/connects/)
-
-
-
+To have yourself added to my contact book - Link 
