@@ -10,10 +10,16 @@ layout: page
 ### Sijo Kuruvilla George
 
 This is my personal website. <br>
-For capturing my notes. <br>
-About me, my thoughts and my work. <br>
+For capturing [notes](https://www.sijokuruvilla.in/notes) about me and my work. <br>
+Best way to [reach me](https://www.sijokuruvilla.in/reachme) is email. Or Twitter. <br>
 
-Best way to reach me is email. Or Twitter. <br>
+
+
+<!--
+
+Connect
 And now looking at replacing this with a bot implementation <br>
 
 To have yourself added to my contact book - Link 
+
+-->
