@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Best way to reach me
 permalink: /reachme
 ---

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Glimpses of a mature work culture
 permalink: /evernote
 ---
+
+# Glimpses of a mature work culture
 
 **Published on April 4, 2014**
 

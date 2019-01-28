@@ -1,8 +1,9 @@
 ---
 layout: plain
-title: In pursuit of a new work culture
-permalink: /work
+permalink: /sfd/work
 ---
+
+# In pursuit of a new work culture
 
 Published on Sep 8, 2013 (to be rewritten)
 

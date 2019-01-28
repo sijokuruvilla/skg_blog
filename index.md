@@ -3,9 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Sijo Kuruvilla George
+
 
 ---
+
+# Sijo Kuruvilla George
 
 This is my personal website. <br>
 For capturing [notes](https://www.sijokuruvilla.in/notes) about me and my work. <br>
