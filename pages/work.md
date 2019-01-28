@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: page
 permalink: /sfd/work
 ---
 
