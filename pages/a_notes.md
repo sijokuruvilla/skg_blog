@@ -1,9 +1,9 @@
 --- 
 layout: page
-title: notes
 permalink: /notes
 ---
 
+# Notes
 
 This page is unorganised and a WIP at this point in time - FYI <br>
 

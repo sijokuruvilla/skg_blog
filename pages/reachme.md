@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Best way to reach me
 permalink: /reachme
 ---
+
+# Best way to reach me
 
 Twitter would be the best way to reach me. 
 

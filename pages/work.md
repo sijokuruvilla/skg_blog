@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /sfd/work
+permalink: /work
 ---
 
 # In pursuit of a new work culture

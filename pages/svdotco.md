@@ -1,8 +1,9 @@
 ---
 layout: page
-title: I still receive queries related to Startup Village
 permalink: /svdotco
 ---
+
+# I still receive queries related to Startup Village
 
 I still receive a lot of queries related to Startup Village
 
