@@ -1,7 +1,7 @@
 ---
 layout: plain
-title: First drafts
-permalink: /sfd/
+title: " "
+permalink: /sfd
 ---
 
 # Writing drafts

@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Don't ask for connects
+title: " "
 permalink: /connects
 ---
+
+## Don't ask for connects
 
 It has become possible and incredibly easy even to be able to discover, locate and connect with people in the 21st century.
 

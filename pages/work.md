@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: In pursuit of a new work culture
+title: " "
 permalink: /work
 ---
 

@@ -1,9 +1,10 @@
 ---
 
+title: " "
 permalink: /reachme
 ---
 
-## Best way to reach me 
+## Best way to reach me
 
 Twitter would be the best way to reach me. 
 
