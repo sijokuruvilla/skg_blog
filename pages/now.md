@@ -1,10 +1,9 @@
 ---
 layout: page
-title: " "
+title: Now
 permalink: /now
 ---
 
-## Now
 
 Primarily, I am engaged fully with building out the non profit, Rethink. Most of my time and mindshare goes into that. 
 

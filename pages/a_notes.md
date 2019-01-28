@@ -1,21 +1,22 @@
 --- 
 layout: page
+title: notes
 permalink: /notes
 ---
 
-## Notes
 
 This page is unorganised and a WIP at this point in time - FYI <br>
 
 <!--
 
-
+https://www.sijokuruvilla.in/
 
 -->
 
 [What am I upto now](https://www.sijokuruvilla.in/now) <br>
 [Best way to reach me](https://www.sijokuruvilla.in/reachme) <br>
 [I still receive queries related to Startup Village](https://www.sijokuruvilla.in/svdotco) <br>
+[In pursuit of a new work culture](https://www.sijokuruvilla.in/work)
 
 My story in brief <br>
 

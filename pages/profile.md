@@ -1,10 +1,8 @@
 ---
 layout: page
-title: " "
+title: Profile
 permalink: /profile
 ---
-
-## Profile
 
 Sijo Kuruvilla George is the Founding CEO of Startup Village, the country's first Public Private Partnership Technology Business Incubator. He is also the cofounder of MobME, one of the first student startups from the state.
 
