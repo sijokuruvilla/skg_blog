@@ -3,7 +3,7 @@ layout: plain
 permalink: /sfd
 ---
 
-# Writing drafts
+## Writing drafts
 
 This is a page to capture my writing drafts <br>
 This page is unorganised and a WIP space for me <br>

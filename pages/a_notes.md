@@ -5,11 +5,7 @@ permalink: /notes
 
 # Notes
 
-<!--
 
-https://www.sijokuruvilla.in/
-
--->
 
 [What am I upto now](https://www.sijokuruvilla.in/now) <br>
 [Best way to reach me](https://www.sijokuruvilla.in/reachme) <br>
