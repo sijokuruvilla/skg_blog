@@ -11,7 +11,7 @@ layout: page
 
 This is my personal website. <br>
 For capturing [notes](https://www.sijokuruvilla.in/notes) about me and my work. <br>
-Best way to [reach me](https://www.sijokuruvilla.in/reachme) is email. Or [Twitter](https://twitter.com/sijokuruvilla). <br>
+Best way to [reach me](https://www.sijokuruvilla.in/reachme) is email. Or [twitter](https://twitter.com/sijokuruvilla). <br>
 
 
 
