@@ -18,3 +18,7 @@ permalink: /notes
 [Copy and innovate](https://www.sijokuruvilla.in/copy) <br>
 [Cricket is my first love](https://www.sijokuruvilla.in/cricket) <br>
 [Reply to all as default](https://www.sijokuruvilla.in/replytoall) <br>
+[Guilt, feat and shame](https://www.sijokuruvilla.in/guilt) <br>
+[All my notes are drafts](https://www.sijokuruvilla.in/drafts) <br>
+[No comments, no tracking](https://www.sijokuruvilla.in/nocomments) <br>
+
