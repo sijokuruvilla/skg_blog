@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /svdotco
+permalink: /notceo
 ---
 
-# I still receive queries related to Startup Village
+## Not with Startup Village anymore
 
 I still receive a lot of queries related to Startup Village
 
