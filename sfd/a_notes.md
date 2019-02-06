@@ -22,3 +22,4 @@ permalink: /notes
 [All my notes are drafts](https://www.sijokuruvilla.in/drafts) <br>
 [No comments, no tracking](https://www.sijokuruvilla.in/nocomments) <br>
 
+[Add to my contact book](https://script.google.com/a/sijokuruvilla.in/macros/s/AKfycbydq6rHNtsk9zq0JRG8v56QXFhRrtophBrRMthVLwxCceV_xf7W/exec) <br>
