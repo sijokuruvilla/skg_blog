@@ -13,4 +13,4 @@ One category of invitations I religiously decline are the ones to be on judging 
 
 # I wish to have a meeting / call to discuss (idea, thoughts etc etc)
 
- Do not prefer calls or meetings to start with. Email works best. Should you wish to speak still, I have kept aside three 20 minute office hours slots on Thursdays for Appear calls. [Calendly](https://calendly.com/sijokuruvilla/officehours)
+ Do not prefer calls or meetings to start with. Email works best. Should you wish to speak still, for now I have kept aside three 20 minute office hours slots on Thursdays for Appear calls. [Calendly](https://calendly.com/sijokuruvilla/officehours)
