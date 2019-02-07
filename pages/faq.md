@@ -9,4 +9,8 @@ One category of invitations I religiously decline are the ones to be on judging 
 
 # I have an idea. What do you think of it
 
-Directing you to guidance shared by Derek Sivers on the matter on his website. I also subscribe to this view & appraoch. 
+ It doesn't matter what me or anybody else things. You do not need permission. Skip talking to "experts" and find our directly from your customers. Nobody knows for sure whether something will work or not. Conviction is a luxury for those on the sidelines. Our world is big and diverse enough for each and every idea to seeded and developed. The only thing that matters is that you have customers and they are deriving value from your offering. Make it happen. 
+
+ # I wish to have a meeting / call to discuss (idea, thoughts etc etc)
+
+ Do not prefer calls or meetings to start with. Email works best. Should you wish to speak still, I have kept aside three 20 minute office hours slots on Thursdays for Appear calls. [Calendly](https://calendly.com/sijokuruvilla/officehours)
