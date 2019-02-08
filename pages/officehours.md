@@ -3,8 +3,11 @@ layout: page
 permalink: /officehours
 ---
 
-## Office hours
+# Office hours
 
-I frequently receive guidance requests. The ones I can, I try to facilitate over emails itself. To account for instances better suited for conversations, have started keeping aside an hour on Thursdays (schedule on [Calendly).](https://calendly.com/sijokuruvilla/officehours/)<br>
-
-Email me first. Also, only Appear. 
+I frequently receive guidance requests. <br>
+The ones I can, I facilitate over emails itself. <br>
+Have also started keeping aside an hour on Thursdays for calls. <br>
+Schedule is up on [Calendly.](https://calendly.com/sijokuruvilla/officehours/) <br>
+Email me first though. <br>
+Also, only Appear. <br>
