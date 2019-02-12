@@ -24,4 +24,4 @@ permalink: /notes
 
 
 [Office hours](https://www.sijokuruvilla.in/officehours) <br>
-[Add to my contact book](https://script.google.com/a/sijokuruvilla.in/macros/s/AKfycbydq6rHNtsk9zq0JRG8v56QXFhRrtophBrRMthVLwxCceV_xf7W/exec) <br>
+[Add to my contact book](https://www.sijokuruvilla.in/contact) <br>
