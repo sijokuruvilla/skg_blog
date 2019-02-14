@@ -49,4 +49,4 @@ Notes:
 
 1. The non profit entity that I used to head, Startup Village, was a registered not for profit society and its registered name was ITIH — TBI (India Telecom Innovation Hub — Technology Business Incubator). While the organisation has ceased operations, the entity continues to exist still
 2. Whenever I mention Startup Village, I refer to the non profit initiative
-3. There is a series of documentation related to Startup Vullage that has been put together on the SV.CO website by Sanjay. You can access them [here](https://www.sv.co/story)
+3. There is a series of documentation related to Startup Village that has been put together on the SV.CO website by Sanjay. You can access them [here](https://www.sv.co/story)
