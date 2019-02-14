@@ -7,11 +7,11 @@ permalink: /faq
 
 One category of invitations I religiously decline are the ones to be on judging panels. I view my role as that of a facilitator and not soothsayer. I also believe that everyone is capable of navigating to good outcomes given sufficient time & required guidance. This can be viewed as a direct extention of our stated credo since Startup Village days of "We don't judge ideas". Given this context, I patently find it not fitting for me to be on judging panels. The answer hence is no. 
 
-**I have an idea. What do you think of it**
+# I have an idea. What do you think of it
 
  It doesn't matter what me or anybody else thinks. You do not need permission. Skip talking to "experts" and find our directly from your customers. Nobody can know for sure whether something will work or not. Conviction is a luxury for those on the sidelines. Our world is also big and diverse enough for each and every idea to be seeded and developed. The only thing that matters is that you have customers and they are deriving value from your offering. Make it happen. 
 
-## I tried calling
+# I tried calling
 
  I don't pick calls from unknown numbers. I just don't. I also don't save most numbers on my phone. 
 
