@@ -11,7 +11,7 @@ One category of invitations I religiously decline are the ones to be on judging 
 
  It doesn't matter what me or anybody else thinks. You do not need permission. Skip talking to "experts" and find our directly from your customers. Nobody can know for sure whether something will work or not. Conviction is a luxury for those on the sidelines. Our world is also big and diverse enough for each and every idea to be seeded and developed. The only thing that matters is that you have customers and they are deriving value from your offering. Make it happen. 
 
- # Accept this as a token of our appreciation
+# Accept this as a token of our appreciation
 
 I don't accept mementos. I acknowledge its a gesture but wish to respect the fact that its an inconvenience to me - just plain carrying it back, keepig it at my place and throwing it away at a later point in time.  Different people have different prefernces and ways of viewing things. This is respecting mine. 
 
@@ -59,7 +59,7 @@ I do not prefer to do meetings without having sufficient context on what its abo
 
  Do not prefer calls or meetings to start with. Email works best. Should you wish to speak still, for now I have kept aside three 20 minute office hours slots on Thursdays for Appear calls. [Calendly](https://calendly.com/sijokuruvilla/officehours)
 
- # I have emailed and haven't heard from you
+# I have emailed and haven't heard from you
 
 I read all emails. I write back to the ones I feel like and when I feel like. Often, my processig rule is also that I don't consider replying unless the person has followed up once or twice. I am also working on a whitelist for my email. Once that is also in place, most likely your email would come to my attention only few days down the line. 
 
