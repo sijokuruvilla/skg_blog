@@ -3,13 +3,13 @@ layout: page
 permalink: /reachme
 ---
 
-# Best way to reach me
+## Best way to reach me
 
 Twitter would be the best way to reach me. 
 
 Twitter is the only messaging service for which I have notifications enabled on my phone. So of the lot, that would hands down be the best way to reach me. 
 
-For any aspects related to guidance on any matter, you are best advised to mail in to v@r. (v@r - volunteers@rethinkfoundation.in)
+For any aspects related to guidance on any matter, you are best advised to mail in to 21CU. - guidance@21cu.org
 
 Should it be a matter that you absolutely have to reach me personally, you may write to me at skg@sijokuruvilla.in. 
 
