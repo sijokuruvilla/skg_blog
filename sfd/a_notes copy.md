@@ -5,8 +5,10 @@ permalink: /notessfd
 
 # Notes
 
+Best way to reach me <br>
 
-[Best way to reach me](https://www.sijokuruvilla.in/reachme) <br>
+
+Best way to reach me <br>
 [What am I upto now](https://www.sijokuruvilla.in/now) <br>
 [Not with Startup Village anymore](https://www.sijokuruvilla.in/notceo) <br>
 
@@ -27,3 +29,8 @@ permalink: /notessfd
 [All my notes are drafts](https://www.sijokuruvilla.in/drafts) <br>
 [No comments, no tracking](https://www.sijokuruvilla.in/nocomments) <br>
 
+20 percent
+
+Call app
+Contact Manager
+Script WEQ
