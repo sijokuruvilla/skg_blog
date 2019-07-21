@@ -5,32 +5,40 @@ permalink: /notessfd
 
 # Notes
 
-Best way to reach me <br>
+Not with Startup Village anymore <br>
+This is what I am upto now <br>
+Best way to reach me is Twitter <br>
+
+Don't ask for connects <br>
+Nothing before 11am <br>
+All my notes are drafts <br>
+Frequently asked questions <br>
 
 
-Best way to reach me <br>
-[What am I upto now](https://www.sijokuruvilla.in/now) <br>
-[Not with Startup Village anymore](https://www.sijokuruvilla.in/notceo) <br>
+Office hours <br>
+Add to my contact book <br>
 
-[Don't ask for connects](https://www.sijokuruvilla.in/connects)<br>
-[Nothing before 11am](https://www.sijokuruvilla.in/11am) <br>
-[Frequently asked questions](https://www.sijokuruvilla.in/faq) <br>
+Rethink / 21CU
+
+Reply to all as default <br>
+Guilt, feat and shame <br>
 
 
-[Office hours](https://www.sijokuruvilla.in/officehours) <br>
-[Add to my contact book](https://www.sijokuruvilla.in/contact) <br>
-
-[In pursuit of a new work culture](https://www.sijokuruvilla.in/work) <br>
-[Address people on a first name basis](https://www.sijokuruvilla.in/firstnames) <br>
-[Copy and innovate](https://www.sijokuruvilla.in/copy) <br>
-[Cricket is my first love](https://www.sijokuruvilla.in/cricket) <br>
-[Reply to all as default](https://www.sijokuruvilla.in/replytoall) <br>
-[Guilt, feat and shame](https://www.sijokuruvilla.in/guilt) <br>
-[All my notes are drafts](https://www.sijokuruvilla.in/drafts) <br>
-[No comments, no tracking](https://www.sijokuruvilla.in/nocomments) <br>
+In pursuit of a new work culture <br>
+Address people on a first name basis <br>
+Copy and innovate <br>
+Cricket is my first love<br>
+No comments, no tracking<br>
 
 20 percent
 
 Call app
 Contact Manager
 Script WEQ
+
+Startups 
+
+Productivity 
+
+
+Startup Village
