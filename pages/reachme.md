@@ -11,7 +11,7 @@ Twitter is the only messaging service for which I have notifications enabled on 
 
 For any aspects related to guidance on any matter, you are best advised to mail in to v@r - volunteers@rethinkfoundation.in
 
-Should it be a matter that you absolutely have to reach me personally, you may write to me at skg@sijokuruvilla.in. 
+Should it be a matter that you absolutely have to reach me personally, you may write to me at office@sijokuruvilla.in. 
 
 FB messages & LinkedIn would be perhaps see the slowest response times. I check those inboxes infrequently. 
 

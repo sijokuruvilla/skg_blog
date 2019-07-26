@@ -10,8 +10,9 @@ permalink: /notes
 [What am I upto now](https://www.sijokuruvilla.in/now) <br>
 [Not with Startup Village anymore](https://www.sijokuruvilla.in/notceo) <br>
 
-[Don't ask for connects](https://www.sijokuruvilla.in/connects)<br>
 [Nothing before 11am](https://www.sijokuruvilla.in/11am) <br>
+[Don't ask for connects](https://www.sijokuruvilla.in/connects)<br>
+I don't accept mementos<br>
 [Frequently asked questions](https://www.sijokuruvilla.in/faq) <br>
 
 
