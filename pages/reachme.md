@@ -9,7 +9,7 @@ Email would be the best way to reach me. I read all.
 
 All other DM platforms (SM, chats, twitter etc) I will be infrequent. 
 
-I also prefer not to be reached on my phone by means of a call or a text unless its both important & urgent. 
+I also prefer not to be reached on my phone unless its both important & urgent. 
 
 So yes, mail works best. 
 
