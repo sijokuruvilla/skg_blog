@@ -11,7 +11,7 @@ All other DM platforms (SM, chats, twitter etc) I will be infrequent.
 
 I also prefer not to be reached on my phone unless its both important & urgent. 
 
-So yes, mail works best. 
+Mail works best. 
 
 
 
