@@ -4,12 +4,12 @@ permalink: /readme
 ---
 
 
-Best way to reach me is email
-Nothing before 11am
-Books and board games
-Circket is my first love
-All my notes are drafts
-No tracking, no comments
+Best way to reach me is email <br>
+Nothing before 11am <br>
+Books and board games<br>
+Circket is my first love<br>
+All my notes are drafts<br>
+No tracking, no comments<br>
 
 Scripts
 
@@ -28,6 +28,12 @@ The only book I have reread
 5. Four hour workweek
 
 Board Games
+
+1. Agricola
+2. Azul
+3. PowerGrid
+
+Startup Village
 
 # I don't accept mementos
 
