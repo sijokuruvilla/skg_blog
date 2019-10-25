@@ -3,13 +3,17 @@ layout: page
 permalink: /readme
 ---
 
+About me
+
+How I go about organising my life - protocols
 
 Best way to reach me is email <br>
 Nothing before 11am <br>
-Books and board games<br>
+Books, white boards and board games<br>
 Circket is my first love<br>
 All my notes are drafts<br>
 No tracking, no comments<br>
+
 
 Scripts
 
@@ -34,6 +38,10 @@ Board Games
 3. PowerGrid
 
 Startup Village
+
+Early years
+
+Rethink
 
 # I don't accept mementos
 
