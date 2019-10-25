@@ -4,14 +4,30 @@ permalink: /readme
 ---
 
 
-# Best way to reach me is email
-# Nothing before 11am
-# Books and board games
-# Circket is my first love
-# All my notes are drafts
-# No tracking, no comments
+Best way to reach me is email
+Nothing before 11am
+Books and board games
+Circket is my first love
+All my notes are drafts
+No tracking, no comments
 
+Scripts
 
+1. All files in Drive
+2. Creating a Slides file
+
+Books
+
+Books that made me Rethink
+The only book I have reread
+
+1. Leadership on the line
+2. What got you here won't get you there
+3. Marginal cost society
+4. Managing with Power
+5. Four hour workweek
+
+Board Games
 
 # I don't accept mementos
 
