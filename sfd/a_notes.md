@@ -21,10 +21,9 @@ Founding CEO, Startup Village
 
 _Additional context_
 
-Startup Village does not exist anymore
-Moved out of CEO role in 2014 after completion of first phase of project
-The project also wrapped up down one year down the line in 2015. 
-[Not with Startup Village anymore](https://www.sijokuruvilla.in/notceo) <br>
+Moved out of CEO role in 2014 after completion of first phase of project. <br>
+The project also wrapped up down one year down the line in 2015. <br>
+Also, [Startup Village does not exist anymore](https://www.sijokuruvilla.in/notceo) <br>
 
 **Talks**
 Been a speaker at various forums. 
