@@ -19,11 +19,9 @@ I don't accept mementos<br>
 [Office hours](https://www.sijokuruvilla.in/officehours) <br>
 [Add to my contact book](https://www.sijokuruvilla.in/contact) <br>
 
-[In pursuit of a new work culture](https://www.sijokuruvilla.in/work) <br>
 [Address people on a first name basis](https://www.sijokuruvilla.in/firstnames) <br>
 [Copy and innovate](https://www.sijokuruvilla.in/copy) <br>
 [Cricket is my first love](https://www.sijokuruvilla.in/cricket) <br>
-[Reply to all as default](https://www.sijokuruvilla.in/replytoall) <br>
 [Guilt, feat and shame](https://www.sijokuruvilla.in/guilt) <br>
 [All my notes are drafts](https://www.sijokuruvilla.in/drafts) <br>
 [No comments, no tracking](https://www.sijokuruvilla.in/nocomments) <br>
