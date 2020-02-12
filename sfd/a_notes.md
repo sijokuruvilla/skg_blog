@@ -5,47 +5,61 @@ permalink: /notes
 
 # Notes
 
-Connect 
+**Connect**
 
-Email would be the best way to reach me. Infrequent on DM's. 
+Email would be the best way to reach me. Infrequent on DM's. <br>
 I also prefer not to be reached on my phone unless its both important & urgent
 
-Now
+**Now**
 
-Engaged with building out the non profit, Rethink. Most of my time and mindshare goes into that. I also undertake consulting engagements. 
+Building out the non profit, Rethink. Most of my time and mindshare goes into that. <br>
+I also undertake consulting engagements. 
 
-Claim to fame 
+**Claim to fame** 
 
 Founding CEO, Startup Village
 
-Additional context
+_Additional context_
 
 Startup Village does not exist anymore
 Moved out of CEO role in 2014 after completion of first phase of project
 The project also wrapped up down one year down the line in 2015. 
 [Not with Startup Village anymore](https://www.sijokuruvilla.in/notceo) <br>
 
-Guidance
+**Talks**
+Been a speaker at various forums. 
+If you are looking to invite, do note that I don't accept mementos <br>
 
-I don't do connects. 
+**Guidance**
+
+Those who are looking to reach out for guidance, 
+Would request you to 
 [Office hours](https://www.sijokuruvilla.in/officehours) <br>
 
-Talks
+Contact
 
-Some of the ways in which I go about organising my life and work
+Join my address book 
+You will be receiving an email with contact coordinates
 
-[Nothing before 11am](https://www.sijokuruvilla.in/11am) <br>
-I don't accept mementos<br>
-[Frequently asked questions](https://www.sijokuruvilla.in/faq) <br>
+Some of the ways in which I go about organising my life, work and this site
 
+Nothing before 11am 
 
-All my notes are drafts
+My mornings belong to me. I am a morning person and mornings happen to be my most productive time. Mornings are also when I attend to my priorty activities. So yes, nothing before 11am. 
 
-All my notes may be treated as drafts. It needs to be reviewed, edited and rewritten. I tend to publish immediately after I have written and look to get back at a later point to refine them. Sometimes I do and most times I don’t. This approach runs the risk of some or most notes not making it to their final drafts. With the publish only after review approach, I run the risk of some (or most) notes never being published. I choose the former.
+About this site
+
+My personal website and the way I am going about it has been inspired by the personal websites of Paul Graham and Derek Sivers. 
 
 No comments no tracking
 
-Copy and innovate
+The site is devoid of any form of commenting, tracking or analytics. Prefer it that way. Easier on the mind and on the code. 
 
-My personal website and the way I am going about it has been heavily inspired by the personal websites of Paul Graham and Derek Sivers. Elements I really liked I have attempted to copy as it is.
+All my notes are drafts
+
+I tend to publish immediately after I have written and look to get back at a later point to refine them if at all. 
+
+
+
+
 
