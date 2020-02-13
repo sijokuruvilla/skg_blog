@@ -12,7 +12,8 @@ layout: page
 This is my personal website <br>
 For capturing [notes](https://www.sijokuruvilla.in/readme) about me and my work <br>
 Best way to reach me is email<br>
-[ReadMe.Txt](ttps://www.sijokuruvilla.in/readme)
+
+[readme.txt](https://www.sijokuruvilla.in/readme)
 
 
 
