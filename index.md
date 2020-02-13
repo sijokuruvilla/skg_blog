@@ -13,7 +13,7 @@ This is my personal website <br>
 For capturing notes about me and my work <br>
 Best way to reach me is email<br>
 
-[Notes](https://www.sijokuruvilla.in/) \| [About](https://www.sijokuruvilla.in/notes) \| [Connect](https://www.sijokuruvilla.in/connect)
+[About](https://www.sijokuruvilla.in/about) \| [Notes](https://www.sijokuruvilla.in/notes) \| [Connect](https://www.sijokuruvilla.in/connect)
 
 
 <!--
