@@ -11,17 +11,18 @@ Email would be the best way to reach me  <br>
 Infrequent or unavailable on other DM platforms (SM, chats, twitter etc) <br>
 I also prefer not to be reached on my phone unless its both important & urgent <br>
 
-# Private contact list
+# Staying connected
 
-For staying connected, get on my private contact list <br>
-Not on LinkedIn and this is the way I organise my professional network. <br>
+For staying connected, get on my private list: [Contact book](https://www.sijokuruvilla.in/contact) <br>
+This is how I keep my professional network organised. <br>
 I'm also on Twitter, Instragram & Facebook. Not on LinkedIn. 
 
-# Guidance
+**Note**
 
-I don't accept mementos <br>
-I don't do connects <br>
 I don't prefer calls
+I don't do connects <br>
+I don't accept mementos <br>
+
 
 
 
