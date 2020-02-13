@@ -17,9 +17,7 @@ I also prefer not to be reached on my phone unless its both important & urgent <
 
 Get on my private list to stay connected: [Contact book]() <br>
 This is how I keep my professional network organised. <br>
-You can also follow me on Twitter, Instragram & Facebook. 
-
-<br>
+You can also follow me on Twitter, Instragram & Facebook. <br>
 
 [Home](https://www.sijokuruvilla.in/) \| [Notes](https://www.sijokuruvilla.in/notes)
 
