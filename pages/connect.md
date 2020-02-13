@@ -13,13 +13,15 @@ I also prefer not to be reached on my phone unless its both important & urgent <
 
 # Staying connected
 
-> Not on LinkedIn
+> Private list
 
 Get on my private list to stay connected: [Contact book](https://www.sijokuruvilla.in/contact) <br>
 This is how I keep my professional network organised. <br>
-I'm also on Twitter, Instragram & Facebook. Not on LinkedIn. 
+I'm also on Twitter, Instragram & Facebook. 
 
-# skg@sijokuruvilla.in
+# Guidance
+
+> skg@sijokuruvilla.in
 
 * Best reached on email 
 * I don't do connects <br>
