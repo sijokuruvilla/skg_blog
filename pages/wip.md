@@ -1,6 +1,6 @@
 --- 
 layout: page
-permalink: /readme
+permalink: /wip
 ---
 
 **Connect**
