@@ -4,7 +4,7 @@ permalink: /list
 
 ---
 
-# Index
+**Index**
 
 [Connect](https://www.sijokuruvilla.in/connect) <br>
 [Notes](https://www.sijokuruvilla.in/notes) <br> 
@@ -16,4 +16,4 @@ To contact or stay connected: [Connect](https://www.sijokuruvilla.in/connect) <b
 To sift through my thoughts / work: [Notes](https://www.sijokuruvilla.in/notes) <br> 
 To learn more about me: [About](https://www.sijokuruvilla.in/about) <br>
 To get back to landing page: [Home](https://www.sijokuruvilla.in/)
->
+-->
