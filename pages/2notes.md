@@ -6,9 +6,9 @@ permalink: /notes
 
 # Notes
 
-All notes are drafts
-No comments, no tracking
-I don't accept mementos
+All notes are drafts <br>
+No comments, no tracking <br>
+I don't accept mementos <br>
 
 [Home](https://www.sijokuruvilla.in/) \| [Connect](https://www.sijokuruvilla.in/connect)
 

@@ -4,9 +4,9 @@ permalink: /readme
 
 ---
 
-# About
+# ReadMe
 
-If you are visiting for the first time, you might want to check out readme <br>
-If you are looking to contact or staying connected, head to [connect](https://www.sijokuruvilla.in/connect) <br>
-
-[Home](https://www.sijokuruvilla.in/) \| [Notes](https://www.sijokuruvilla.in/notes)
+To learn more about me: [About](https://www.sijokuruvilla.in/about) <br>
+To sift through my thoughts / work: [Notes](https://www.sijokuruvilla.in/notes) <br> 
+To contact or stay connected: Connect [connect](https://www.sijokuruvilla.in/connect) <br>
+To get back to landing page: [Home](https://www.sijokuruvilla.in/)
