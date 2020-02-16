@@ -6,8 +6,9 @@ permalink: /notes
 
 # Notes
 
-If you are visiting for the first time, you might want to check out readme <br>
-If you are looking to contact or staying connected, head to [connect](https://www.sijokuruvilla.in/connect) <br>
+All notes are drafts
+No comments, no tracking
+I don't accept mementos
 
 [Home](https://www.sijokuruvilla.in/) \| [Connect](https://www.sijokuruvilla.in/connect)
 
