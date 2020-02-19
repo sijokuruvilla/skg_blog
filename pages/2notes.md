@@ -9,6 +9,7 @@ permalink: /notes
 All notes are drafts <br>
 No comments, no tracking <br>
 I don't accept mementos <br>
+Startup Village does not exist anymore <br>
 
 [Home](https://www.sijokuruvilla.in/) \| [Connect](https://www.sijokuruvilla.in/connect)
 
@@ -16,7 +17,7 @@ I don't accept mementos <br>
 <!--
 
 Know
-Connect
+Connect 
 
 Connect
 Now
