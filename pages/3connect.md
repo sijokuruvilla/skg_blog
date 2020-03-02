@@ -3,11 +3,11 @@ layout: page
 permalink: /connect
 ---
 
-# Getting in touch
+# Mail works best
 
-> Mail works best
+> skg@sijokuruvilla.in
 
-Email would be the best way to reach me: **skg@sijokuruvilla.in**  <br>
+Email would be the best way to reach me  <br>
 Infrequent or unavailable on other DM platforms (SM, chats, twitter etc) <br>
 I also prefer not to be reached on my phone unless its both important & urgent <br>
 
