@@ -8,6 +8,10 @@ permalink: /notes
 
 > This page is a WIP
 
+**About**
+
+> Overview
+
 Professional life overview <br>
 Books <br>
 Board games <br>
@@ -16,6 +20,10 @@ Cricket <br>
 Basketball <br>
 Column <br>
 Course <br>
+Rajeev Circle <br>
+IVLP <br>
+SVSquare <br>
+Startup Village <br>
 
 **Credo**
 
