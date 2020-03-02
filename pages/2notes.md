@@ -11,7 +11,7 @@ No comments, no tracking <br>
 I don't accept mementos <br>
 Startup Village does not exist anymore <br>
 
-[Home](https://www.sijokuruvilla.in/) \| [Connect](https://www.sijokuruvilla.in/connect)
+[Home](https://www.sijokuruvilla.in/) \| [Connect](https://www.sijokuruvilla.in/connect) \| [Blog](http://notes.sijokuruvilla.in/)  \| [Profile](https://www.sijokuruvilla.in/profile)
 
 
 <!--

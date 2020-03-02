@@ -19,7 +19,7 @@ Get on my private list to stay connected: [Contact book](https://www.sijokuruvil
 This is how I keep my professional network organised. <br>
 You can also follow me on [Twitter](https://twitter.com/sijokuruvilla), [Instragram](https://www.instagram.com/sijokuruvilla/) & [Facebook](https://www.facebook.com/sijokuruvillageorge/). <br>
 
-[Home](https://www.sijokuruvilla.in/) \| [Notes](https://www.sijokuruvilla.in/notes) \| [Connect](https://www.sijokuruvilla.in/connect) 
+[Home](https://www.sijokuruvilla.in/) \| [Notes](https://www.sijokuruvilla.in/notes) \| [Blog](http://notes.sijokuruvilla.in/)  \| [Profile](https://www.sijokuruvilla.in/profile)
 
 <!--
 # Note
