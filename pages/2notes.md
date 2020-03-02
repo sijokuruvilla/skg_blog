@@ -6,10 +6,32 @@ permalink: /notes
 
 # Notes
 
+> This page is a WIP
+
+Professional life overview <br>
+Books <br>
+Board games <br>
+Talks <br>
+Cricket <br>
+Basketball <br>
+Column <br>
+Course <br>
+
+**Credo**
+
+> How I go about organising my work & life
+
+I don't accept mementos <br>
 All notes are drafts <br>
 No comments, no tracking <br>
-I don't accept mementos <br>
+
+**Responses**
+
+> For the frequently encountered
+
 Startup Village does not exist anymore <br>
+I don't do connects <br>
+
 
 [Home](https://www.sijokuruvilla.in/) \| [Connect](https://www.sijokuruvilla.in/connect) \| [Blog](http://notes.sijokuruvilla.in/)  \| [Profile](https://www.sijokuruvilla.in/profile)
 
