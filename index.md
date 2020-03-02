@@ -10,10 +10,10 @@ layout: page
 # Sijo Kuruvilla George
 
 This is my personal website <br>
-For capturing [notes](https://www.sijokuruvilla.in/notes) about me and my work <br>
+For capturing notes about me and my work <br>
 Best way to reach me is email<br>
 
-[Index](https://www.sijokuruvilla.in/list) \| [Notes](https://www.sijokuruvilla.in/notes) \| [Connect](https://www.sijokuruvilla.in/connect)
+[Blog](http://notes.sijokuruvilla.in/) \| [Notes](https://www.sijokuruvilla.in/notes) \| [Profile](https://www.sijokuruvilla.in/profile) \| [Connect](https://www.sijokuruvilla.in/connect)
 
 
 <!--
