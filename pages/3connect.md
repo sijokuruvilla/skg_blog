@@ -14,8 +14,8 @@ Infrequent or unavailable on other DM platforms (SM, chats, twitter etc) <br>
 
 > Private list
 
-You can join my private email list: [Contact book](https://www.sijokuruvilla.in/contact) <br>
-You can also find me on [Twitter](https://twitter.com/sijokuruvilla), [Instragram](https://www.instagram.com/sijokuruvilla/) & [Facebook](https://www.facebook.com/sijokuruvillageorge/). <br>
+Join my private email list: [Contact book](https://www.sijokuruvilla.in/contact) <br>
+Find me on [Twitter](https://twitter.com/sijokuruvilla), [Instragram](https://www.instagram.com/sijokuruvilla/) & [Facebook](https://www.facebook.com/sijokuruvillageorge/). <br>
 
 [Home](https://www.sijokuruvilla.in/) \| [Notes](https://www.sijokuruvilla.in/notes) \| [Blog](http://notes.sijokuruvilla.in/)  \| [Profile](https://www.sijokuruvilla.in/profile)
 

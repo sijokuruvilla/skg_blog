@@ -42,19 +42,6 @@ Manage attention, not time <br>
 Parkinson law <br>
 Eisenhover matrix <br>
 
-**Talks**
-
-[Seeking a cultural shift](https://www.youtube.com/watch?v=lZIc0ygfsJ0)<br>
-[In pursuit of a cultural shift](https://www.youtube.com/watch?v=N4gYz51OYAs)<br>
-[Navigating to exponential opportunities](https://www.youtube.com/watch?v=gIR2T1LAZjs)<br>
-[TWTW - The week that was](https://www.youtube.com/watch?v=UD64fm8LPDk)<br>
-[Manorama Yuva Mastermind](https://www.youtube.com/watch?v=XZKL2JGNM3M)<br>
-
-**Interviews**
-
-[Startup Grind](https://www.youtube.com/watch?v=jMv5LJzaRKU)<br>
-[Chammel I'm](https://www.youtube.com/watch?v=l5dQ9MMs0Ss) <br>
-
 **Writings**
 
 [The curious case of Rejected successfully](https://medium.com/@sijokuruvilla/the-curious-case-of-rejected-successfully-399c9cd0599e) <br>
@@ -65,12 +52,25 @@ Eisenhover matrix <br>
 [Open book, open laptop exam](https://notes.sijokuruvilla.in/number-ent101-end-term-exam)<br>
 [Glimpses of a mature work culture](https://notes.sijokuruvilla.in/glimpses-of-a-mature-work-culture)<br>
 
+**Talks**
+
+[Seeking a cultural shift](https://www.youtube.com/watch?v=lZIc0ygfsJ0)<br>
+[In pursuit of a cultural shift](https://www.youtube.com/watch?v=N4gYz51OYAs)<br>
+[Navigating to exponential opportunities](https://www.youtube.com/watch?v=gIR2T1LAZjs)<br>
+[TWTW - The week that was](https://www.youtube.com/watch?v=UD64fm8LPDk)<br>
+[Manorama Yuva Mastermind](https://www.youtube.com/watch?v=XZKL2JGNM3M)<br>
+
 **Scripts**
 
 [Logger Bot](https://notes.sijokuruvilla.in/telegram-logger-bot)<br>
 [All files in Drive](https://notes.sijokuruvilla.in/script-all-files-in-drive)<br>
 [Connect App](https://notes.sijokuruvilla.in/script-connect-app)<br>
 [Post to Twitter](https://notes.sijokuruvilla.in/script-post-to-twitter)<br>
+
+**Interviews**
+
+[Startup Grind](https://www.youtube.com/watch?v=jMv5LJzaRKU)<br>
+[Chammel I'm](https://www.youtube.com/watch?v=l5dQ9MMs0Ss) <br>
 
 **Responses**
 
