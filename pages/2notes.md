@@ -10,7 +10,7 @@ permalink: /notes
 
 **About**
 
-> Overview
+> Context
 
 Synopsis <br>
 [Books](https://medium.com/@sijokuruvilla/books-e3696a310a12) <br>
@@ -18,12 +18,13 @@ Board games <br>
 Talks <br>
 Cricket <br>
 Basketball <br>
-Column <br>
+[Column](https://notes.sijokuruvilla.in/number-column-maatrbhuumi)<br>
 Course <br>
 Rajeev Circle <br>
 IVLP <br>
 SVSquare <br>
 Startup Village <br>
+Scripts <br>
 
 **Credo**
 
@@ -35,6 +36,12 @@ I don't do connects <br>
 All notes are drafts <br>
 No comments, no tracking <br>
 
+**Productivity**
+
+Manage attention, not time <br>
+Parkinson law <br>
+Eisenhover matrix <br>
+
 **Writings**
 
 [The curious case of Rejected successfully](https://medium.com/@sijokuruvilla/the-curious-case-of-rejected-successfully-399c9cd0599e) <br>
@@ -44,12 +51,12 @@ No comments, no tracking <br>
 [Facilitating guidance over emails](https://medium.com/@sijokuruvilla/wetech-qualcomm-scholarship-65a85e8e3ab0)<br>
 [Glimpses of a mature work culture](https://notes.sijokuruvilla.in/glimpses-of-a-mature-work-culture)<br>
 
-**Script projects**
+**Scripts**
 
+[Logger Bot](https://notes.sijokuruvilla.in/telegram-logger-bot)<br>
+[All files in Drive](https://notes.sijokuruvilla.in/script-all-files-in-drive)<br>
 [Connect App](https://notes.sijokuruvilla.in/script-connect-app)<br>
 [Post to Twitter](https://notes.sijokuruvilla.in/script-post-to-twitter)<br>
-Logger Bot
-[All files in Drive](https://notes.sijokuruvilla.in/script-all-files-in-drive)<br>
 
 **Read Me**
 
