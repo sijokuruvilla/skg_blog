@@ -48,7 +48,7 @@ No comments, no tracking <br>
 
 > For the frequently encountered
 
-[Startup Village does not exist anymore] (https://medium.com/@sijokuruvilla/i-receive-several-queries-related-to-startup-village-3383e324a346)<br>
+[Startup Village does not exist anymore](https://medium.com/@sijokuruvilla/i-receive-several-queries-related-to-startup-village-3383e324a346)<br>
 [Frequently encountered questions](https://www.sijokuruvilla.in/faq)<br>
 
 **Script projects**
