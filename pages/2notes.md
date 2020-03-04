@@ -44,19 +44,19 @@ No comments, no tracking <br>
 [Facilitating guidance over emails](https://medium.com/@sijokuruvilla/wetech-qualcomm-scholarship-65a85e8e3ab0)<br>
 [Glimpses of a mature work culture](https://notes.sijokuruvilla.in/glimpses-of-a-mature-work-culture)<br>
 
-**Responses**
-
-> For the frequently encountered
-
-[Startup Village does not exist anymore](https://medium.com/@sijokuruvilla/i-receive-several-queries-related-to-startup-village-3383e324a346)<br>
-[Frequently encountered questions](https://www.sijokuruvilla.in/faq)<br>
-
 **Script projects**
 
 [Connect App](https://notes.sijokuruvilla.in/script-connect-app)<br>
 [Post to Twitter](https://notes.sijokuruvilla.in/script-post-to-twitter)<br>
 Logger Bot
 [All files in Drive](https://notes.sijokuruvilla.in/script-all-files-in-drive)<br>
+
+**Read Me**
+
+> For the frequently encountered
+
+[Startup Village does not exist anymore](https://medium.com/@sijokuruvilla/i-receive-several-queries-related-to-startup-village-3383e324a346)<br>
+[Frequently asked questions](https://www.sijokuruvilla.in/faq)<br>
 
 [Home](https://www.sijokuruvilla.in/) \| [Connect](https://www.sijokuruvilla.in/connect) \| [Blog](http://notes.sijokuruvilla.in/)  \| [Profile](https://www.sijokuruvilla.in/profile)
 
