@@ -35,6 +35,7 @@ I don't accept mementos <br>
 I don't do connects <br>
 All notes are drafts <br>
 No comments, no tracking <br>
+Nothing before 11am <br>
 
 **Productivity**
 
