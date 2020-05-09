@@ -10,7 +10,6 @@ layout: page
 # Sijo Kuruvilla George
 
 This is my personal website <br>
-Testing something <br>
 For capturing notes about me and my work <br>
 Best way to reach me is email<br>
 
