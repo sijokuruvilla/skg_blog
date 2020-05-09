@@ -23,7 +23,6 @@ I don't care much for such requests. Tell me what it's about, and let me decide 
 
 I don't accept mementos. I acknowledge its a gesture but wish to respect the fact that it's an inconvenience to me - just plain carrying it back, keeping it at my place and throwing it away at a later point in time.  Different people have different preferences and ways of viewing things. This is respecting mine. 
 
-
 # Can we get on a call / can we meet?
 
 Write to me first. Let me know what it's about. Pique my interest. Or secure a reference. 
