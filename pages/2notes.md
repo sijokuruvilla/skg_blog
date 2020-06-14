@@ -43,6 +43,11 @@ Manage attention, not time <br>
 Parkinson law <br>
 Eisenhover matrix <br>
 
+**Books**
+
+What got you here wont get you there <br>
+Year without pants
+
 **Writings**
 
 [The curious case of Rejected successfully](https://medium.com/@sijokuruvilla/the-curious-case-of-rejected-successfully-399c9cd0599e) <br>
