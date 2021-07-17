@@ -12,7 +12,7 @@ layout: page
 This is my personal website <br>
 For capturing [notes](https://notes.sijokuruvilla.in/) about me and my work <br>
 Best way to reach me is email<br>
-[Twitter](https://twitter.com/sijokuruvilla)| [LinkedIn](https://www.linkedin.com/in/sijo-kuruvilla-115535209/)| [Instagram](https://www.instagram.com/sijokuruvilla/)| [Whatsapp](https://api.whatsapp.com/send/?phone=%2B919809031383)<br>
+[Twitter](https://twitter.com/sijokuruvilla)| [LinkedIn](https://www.linkedin.com/in/sijo-kuruvilla-115535209/)| [Instagram](https://www.instagram.com/sijokuruvilla/)| [Whatsapp](https://api.whatsapp.com/send/?phone=%2B918848825206)<br>
 
 <!---[Connect](https://www.sijokuruvilla.in/connect) \| [Blog](http://notes.sijokuruvilla.in/) \| [Profile](https://www.sijokuruvilla.in/profile) \| [Notes](https://www.sijokuruvilla.in/notes) 
 
