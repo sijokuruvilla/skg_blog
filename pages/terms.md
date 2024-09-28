@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zen Tracker
-permalink: /termsofservice
+permalink: /zentracker/termsofservice
 ---
 
 # Privacy Policy
