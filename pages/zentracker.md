@@ -35,6 +35,9 @@ Zen Tracker is provided for personal financial management. By using the service,
 
 Zen Tracker is provided “as is,” and we are not liable for damages arising from its use. You can stop using Zen Tracker anytime. Terms may be updated, with notifications provided for significant changes prior to the changes becoming effective. We encourage you to periodically review the Zen Tracker website for the latest information on our terms and policies.
 
-For inquiries, contact us at [office@sijokuruvilla.in](mailto:office@sijokuruvilla.in)
+- Contact: [office@sijokuruvilla.in](mailto:office@sijokuruvilla.in)
+
+- [Privacy Policy](https://www.sijokuruvilla.in/zentracker/privacypolicy)
+- [Terms of Service](https://www.sijokuruvilla.in/zentracker/termsofservice)
 
 _Last updated: September 1st, 2024._
