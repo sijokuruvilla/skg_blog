@@ -12,7 +12,7 @@ With automated extraction from transaction emails, intelligent tagging, and expe
 
 # Key Features:
 
-- **Automated Transaction Extraction**: Seamlessly integrates with your bank emails (ICICI, Axis) to extract transaction details and categorize expenses.
+- **Automated Transaction Extraction**: Seamlessly integrates with your email inbox to extract transaction details from your transaction emails and categorize expenses.
 - **Tagging and Categorization**: Automatically assigns tags to your transactions or allows you to manually review and assign them for accurate expense tracking.
 - **Detailed Spend Analysis**: Get monthly, weekly, and custom summaries of your spending patterns by card, expense type, and transaction reference.
 - **Top 10 Spends Visualization**: Stay on top of your finances with visual insights into your top 10 spending categories.
