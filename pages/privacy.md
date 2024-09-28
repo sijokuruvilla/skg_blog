@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zen Tracker
-permalink: /privacypolicy
+permalink: /zentracker/privacypolicy
 ---
 
 # Privacy Policy
