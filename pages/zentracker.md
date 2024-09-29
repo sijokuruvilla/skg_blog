@@ -6,7 +6,7 @@ permalink: /zentracker
 
 ## Zen Tracker: Expense tracking made breezy
 
-Zen Tracker is a powerful and intuitive personal finance management tool designed to help users automate the tracking and analysis of their spending patterns. Zen Tracker effortlessly categorizes transactions, highlights unassigned expenses, and provides better insights into your spending habits.
+Zen Tracker is a nifty and powerful personal finance management tool designed to automate the tracking and analysis of your spending patterns. Zen Tracker effortlessly categorizes transactions, highlights unassigned expenses, and provides better insights into your spending habits.
 
 With automated extraction from transaction emails, intelligent tagging, and expense summaries, Zen Tracker helps you gain complete control over your finances with minimal mental effort, giving you peace of mind. Zen Tracker is the perfect solution for those looking to automate financial tracking and make informed decisions based on personal spend patterns.
 
