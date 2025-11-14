@@ -49,11 +49,13 @@ I do have a lot more thoughts surrounding board games — and strategy board gam
 
 ---
 
-<div style="display: flex; justify-content: space-between; margin-top: 50px;">
+---
+
+<nav style="display: flex; justify-content: space-between; margin-top: 60px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="https://www.sijokuruvilla.in/projects">&larr; Previous</a>
+    <a href="https://www.sijokuruvilla.in/projects" style="text-decoration: none; color: #0366d6;">← Previous: Projects</a>
   </div>
   <div>
-    <a href="https://www.sijokuruvilla.in/p/name">Next &rarr;</a>
+    <a href="https://www.sijokuruvilla.in/p/name" style="text-decoration: none; color: #0366d6;">Next: Name →</a>
   </div>
-</div>
+</nav>
