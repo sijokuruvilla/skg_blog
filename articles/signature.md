@@ -17,10 +17,11 @@ Enter copy and innovate. Adopted the Kuruvilla part of his signature as it is; a
 
 Now all that was needed was for my name to match my signature. That part turned out far easier than my search for my signature. Went and told my parents that I wanted my name changed to Sijo Kuruvilla George. Don't recall whether they really asked why but I definitely had not told the real reason. I was slated to shift schools after 7th and they mentioned it would be easy to change the records then. And that's what we did.
 
-
----
-
-
-[Next: The open exam experiment →](openexam)  
-
-[← Previous: Calvin & Hobbes](calvin-hobbes)
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+  <div>
+<a href="https://www.sijokuruvilla.in/openexam" style="text-decoration: none; color: #0366d6;">Next: The open exam experiment →</a>
+</div>
+<div>
+<a href="https://www.sijokuruvilla.in/calvin-hobbes" style="text-decoration: none; color: #0366d6;">← Previous: Calvin & Hobbes</a>
+</div>
+</nav>
