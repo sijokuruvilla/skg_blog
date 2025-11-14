@@ -7,5 +7,5 @@ permalink: /rethink
 
 > This page is a WIP
 
-[Projects worth pursing](https://notes.sijokuruvilla.in/projects) <br>
-[Board games](https://notes.sijokuruvilla.in/p/boardgames) <br>
+[Projects worth pursing](https://www.sijokuruvilla.in/projects) <br>
+[Board games](https://www.sijokuruvilla.in/p/boardgames) <br>
