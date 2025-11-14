@@ -57,7 +57,7 @@ I do have a lot more thoughts surrounding board games — and strategy board gam
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="https://www.sijokuruvilla.in/p/name" style="text-decoration: none; color: #0366d6;">Next: "What does your name mean?" →</a>
+    <a href="https://www.sijokuruvilla.in/name" style="text-decoration: none; color: #0366d6;">Next: "What does your name mean?" →</a>
   </div>
   <div>
     <a href="https://www.sijokuruvilla.in/projects" style="text-decoration: none; color: #0366d6;">← Previous: Projects worth pursuing</a>
