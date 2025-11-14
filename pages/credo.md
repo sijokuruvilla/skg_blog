@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /credo
+---
+
+
 # Nothing before 11am 
 
 My mornings belong to me. I am a morning person and mornings happen to be my most productive time. Mornings are also when I attend to my priorty activities. So yes, nothing before 11am. 
