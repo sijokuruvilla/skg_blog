@@ -5,7 +5,7 @@ permalink: /connect
 
 # Mail works best
 
-> skg@sijokuruvilla.in
+> office@sijokuruvilla.in
 
 Email would be the best way to reach me  <br>
 Infrequent or unavailable on other DM platforms (SM, chats, twitter etc) <br>
