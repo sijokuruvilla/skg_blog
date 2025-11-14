@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
+title: Rejected successfully
 permalink: /rejected
 ---
-
-# Rejected successfully
 
 I offer a course on Entrepreneurship at guest faculty at XIME. As part of their course project, each student is working on developing their own Google Assistant bots.
 
