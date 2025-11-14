@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Never split the difference
 permalink: /never
 ---
 
-Split the difference
+# Never split the difference
 
 This is one amazing book. Ended up picking it up only recently but wished I had a lot earlier. But as they also say, എല്ലാത്തിനും അതിന്റെതായ സമയമുണ്ട് ദാസാ. It's even possible that had I read this book much earlier in life I would have had the life experiences to make sense of the genius of what this book really is.
 

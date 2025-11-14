@@ -1,8 +1,9 @@
 ---
 layout: page
-title: The open exam experiment
 permalink: /openexam
 ---
+
+# The open exam experiment
 
 I decided to have an open book and open laptop exam for the end term examination of my course. Even I wasn't too sure how it was going to work out. All the more because we had our own share of concerns owing to wifi internet connectivity concerns that was prevalent at XIME campus. In any case, I eventually decided to back myself and go ahead with the plan. At the end of it all, I'm just really glad that I did.
 
