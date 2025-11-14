@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Evernote visit
 permalink: /evernote
 ---
+
+# Evernote visit
 
 One of the companies that we visited in my recent trip to Silicon Valley along with the SVSquare fellows is Evernote. I was also quite looking forward to the meeting in that Evernote happened to be one of my favourite productivity applications. I use Evernote almost only for clipping articles though.
 
