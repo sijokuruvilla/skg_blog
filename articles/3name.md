@@ -49,3 +49,5 @@ I have seen people going into fits of rage and irritation when someone misspells
 At the end of the day, the name is just a string of sounds patched together and its primary objective is to sort of serve as a unique identifier while communicating. To that end, the name Sijo serves just fine. Infact, it makes it easier on occasions to strike a conversation when you very clearly know that this is going to be one of the questions that pop up in the earlier parts of the conversation. Similar to how you know that the opening question in an interview will be "Tell me something about yourself"! It's like someone opening a chess game with a particular move. If you clearly know what the other person's move is going to be, you can very clearly prepare your approach to counter that and use it to your advantage even.
 
 And when seen from that context, I know that the conversation has passed the initial awkward stages and is transitioning into some sort of a comfort stage every time I hear this question come my way: "What does your name mean?"
+
+![Name](/assets/images/sijoname.webp)
