@@ -6,13 +6,12 @@ permalink: /name
 
 # What does your name mean?
 
+Ever since I started traveling and meeting people from outside Kerala, I've been asked this question on multiple occasions: "What does your name Sijo mean?". Let me get to the answer straight away. **It does not mean anything. Its just Sijo!**
+
 <div align="center">
   <img src="/assets/images/sijoname.webp" alt="Handwritten example of the name Sijo">
   <p><em>A handwritten example of the name Sijo</em></p>
 </div>
-
-
-Ever since I started traveling and meeting people from outside Kerala, I've been asked this question on multiple occasions: "What does your name Sijo mean?". Let me get to the answer straight away. **It does not mean anything. Its just Sijo!**
 
 ## The Mallu Naming Tradition
 
