@@ -15,7 +15,7 @@ While Monopoly is one of the most popular games and staple games in and around o
 
 After those teenage years came a protracted phase of no board games. (Interestingly, there was a protracted phase of no books even). This I believe could be attributed to the age factor — you tend to get hooked on a lot more to outdoor games and video games in that age. While it was few more years away from NFS and Age of Empires becoming the rage, Contra & Maria had made their appearance by then and was soon to be followed by Road Rash, Call of Duty, Mortal Combat, FIFA etc. Predating all these titles was Prince of Persia — that one magnificent beauty of a game, and our good old Bricks. Cat was among the first games I played during my pre-KG years alongside Bricks on the Amstard PC that we had at home. This segment would not be complete without a reference to that. Not a lot of people I realised later had come across this. Was one spectacular game and truly deserved a lot more popularity.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2mWZlNOzdv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2mWZlNOzdv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Contra (NES) Full Run With No Deaths](https://www.youtube.com/watch?v=2mWZlNOzdv8)
 
