@@ -7,5 +7,5 @@ permalink: /rethink
 
 > This page is a WIP
 
-[Books](https://medium.com/@sijokuruvilla/books-e3696a310a12) <br>
+[Projects worth pursing](https://notes.sijokuruvilla.in/p/projects) <br>
 [Board games](https://notes.sijokuruvilla.in/p/boardgames) <br>
