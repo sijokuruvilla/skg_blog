@@ -53,9 +53,9 @@ I do have a lot more thoughts surrounding board games — and strategy board gam
 
 <nav style="display: flex; justify-content: space-between; margin-top: 60px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="https://www.sijokuruvilla.in/projects" style="text-decoration: none; color: #0366d6;">← Previous: Projects</a>
+    <a href="https://www.sijokuruvilla.in/projects" style="text-decoration: none; color: #0366d6;">← Previous: Projects worth pursing</a>
   </div>
   <div>
-    <a href="https://www.sijokuruvilla.in/p/name" style="text-decoration: none; color: #0366d6;">Next: Name →</a>
+    <a href="https://www.sijokuruvilla.in/p/name" style="text-decoration: none; color: #0366d6;">Next: "What does your name mean?" →</a>
   </div>
 </nav>
