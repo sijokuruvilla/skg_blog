@@ -13,13 +13,13 @@ permalink: /rethink
 
 > This page is a WIP
 
-[Projects worth pursing](https://www.sijokuruvilla.in/projects)  
-[Board games](/boardgames.md)  
-["What does your name mean?"](/name)  
-[Books](https://www.sijokuruvilla.in/books)  
-[Evernote visit](https://www.sijokuruvilla.in/evernote)  
-[Calvin & Hobbes](https://www.sijokuruvilla.in/calvin-hobbes)  
-[Story of my signature](https://www.sijokuruvilla.in/signature)  
-[The open exam experiment](https://www.sijokuruvilla.in/openexam)  
-[Rejected successfully](https://www.sijokuruvilla.in/rejected-successfully)  
-[Never split the difference](https://www.sijokuruvilla.in/never)
+[Projects worth pursing](projects)  
+[Board games](boardgames)  
+["What does your name mean?"](name)  
+[Books](books)  
+[Evernote visit](evernote)  
+[Calvin & Hobbes](calvin-hobbes)  
+[Story of my signature](signature)  
+[The open exam experiment](openexam)  
+[Rejected successfully](rejected)  
+[Never split the difference](never)
