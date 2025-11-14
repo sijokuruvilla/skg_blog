@@ -6,6 +6,12 @@ permalink: /name
 
 # What does your name mean?
 
+<div align="center">
+  <img src="/assets/images/sijoname.webp" alt="Handwritten example of the name Sijo">
+  <p><em>A handwritten example of the name Sijo</em></p>
+</div>
+
+
 Ever since I started traveling and meeting people from outside Kerala, I've been asked this question on multiple occasions: "What does your name Sijo mean?". Let me get to the answer straight away. **It does not mean anything. Its just Sijo!**
 
 ## The Mallu Naming Tradition
@@ -47,19 +53,6 @@ I very recently got traumatized when a friend of mine, who also happens to be a 
 I have seen people going into fits of rage and irritation when someone misspells or mispronounces their names. Personally, I'm cool with this happening. I am not really particular about how people say my name and am really cool about the fact that my name does not have a meaning. The way I see it, not having a meaning for my name is one less thing that I need to be confine myself to live up to. After all, it's just a name.
 
 At the end of the day, the name is just a string of sounds patched together and its primary objective is to sort of serve as a unique identifier while communicating. To that end, the name Sijo serves just fine. Infact, it makes it easier on occasions to strike a conversation when you very clearly know that this is going to be one of the questions that pop up in the earlier parts of the conversation. Similar to how you know that the opening question in an interview will be "Tell me something about yourself"! It's like someone opening a chess game with a particular move. If you clearly know what the other person's move is going to be, you can very clearly prepare your approach to counter that and use it to your advantage even.
-
-<div align="center">
-  <img src="/assets/images/sijoname.webp" alt="Handwritten example of the name Sijo">
-  <p><em>A handwritten example of the name Sijo</em></p>
-</div>
-
-<!-- <div align="center">
-
-![Name](/assets/images/sijoname.webp)
-
-*A handwritten example of the name Sijo*
-
-</div> -->
 
 And when seen from that context, I know that the conversation has passed the initial awkward stages and is transitioning into some sort of a comfort stage every time I hear this question come my way: "What does your name mean?"
 
