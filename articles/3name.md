@@ -57,3 +57,11 @@ At the end of the day, the name is just a string of sounds patched together and 
 </div>
 
 And when seen from that context, I know that the conversation has passed the initial awkward stages and is transitioning into some sort of a comfort stage every time I hear this question come my way: "What does your name mean?"
+
+---
+
+<nav style="display: flex; justify-content: space-between; margin-top: 60px; padding-top: 20px; border-top: 1px solid #eee;">
+  <div>
+    <a href="https://www.sijokuruvilla.in/boardgames" style="text-decoration: none; color: #0366d6;">← Previous: Wonderful world of strategy board games</a>
+  </div>
+</nav>
