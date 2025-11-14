@@ -55,17 +55,11 @@ At the end of the day, the name is just a string of sounds patched together and 
 
 And when seen from that context, I know that the conversation has passed the initial awkward stages and is transitioning into some sort of a comfort stage every time I hear this question come my way: "What does your name mean?"
 
-<nav style="display: flex; justify-content: space-between; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
-  <div>
-    <a href="" style="text-decoration: none; color: #0366d6;">← Previous: Wonderful world of strategy board games</a>
-  </div>
-</nav>
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="https://www.sijokuruvilla.in/name" style="text-decoration: none; color: #0366d6;">Next: "What does your name mean?" →</a>
+    <a href="https://www.sijokuruvilla.in/books" style="text-decoration: none; color: #0366d6;">Next: Books →</a>
   </div>
   <div>
-    <a href="https://www.sijokuruvilla.in/books" style="text-decoration: none; color: #0366d6;">← Previous: Projects worth pursuing</a>
+    <a href="https://www.sijokuruvilla.in/boardgames" style="text-decoration: none; color: #0366d6;">← Previous: Board games</a>
   </div>
 </nav>
