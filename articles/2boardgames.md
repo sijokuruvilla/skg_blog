@@ -47,7 +47,7 @@ For those looking at where to start, my guidance for gateway games would be Sett
 
 I do have a lot more thoughts surrounding board games — and strategy board games that too. But for now, I'll just leave it at that. Closing with the strong advocacy that anyone who hasn't tried it yet and is even mildly interested, you should absolutely check out board games. Every child and every adult needs and deserves to be introduced to this fascinatingly amazing world.
 
-<nav style="display: flex; flex-direction: column; gap: 20px; margin-top: 60px; padding-top: 20px; border-top: 1px solid #eee;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 60px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/p/name" style="text-decoration: none; color: #0366d6;">Next: "What does your name mean?" →</a>
   </div>
