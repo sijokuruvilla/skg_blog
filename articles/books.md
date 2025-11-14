@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
+title: Books
 permalink: /books
----
-
-# Books
+--- 
 
 Books have a very interesting power to make you think and even change the way you think. Its power to transform us at a much deeper level has always amazed me.
 
