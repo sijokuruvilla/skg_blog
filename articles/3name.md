@@ -57,6 +57,15 @@ And when seen from that context, I know that the conversation has passed the ini
 
 <nav style="display: flex; justify-content: space-between; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="https://www.sijokuruvilla.in/boardgames" style="text-decoration: none; color: #0366d6;">← Previous: Wonderful world of strategy board games</a>
+    <a href="" style="text-decoration: none; color: #0366d6;">← Previous: Wonderful world of strategy board games</a>
+  </div>
+</nav>
+
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+  <div>
+    <a href="https://www.sijokuruvilla.in/name" style="text-decoration: none; color: #0366d6;">Next: "What does your name mean?" →</a>
+  </div>
+  <div>
+    <a href="https://www.sijokuruvilla.in/books" style="text-decoration: none; color: #0366d6;">← Previous: Projects worth pursuing</a>
   </div>
 </nav>
