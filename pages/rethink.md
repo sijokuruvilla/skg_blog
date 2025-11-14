@@ -3,7 +3,7 @@ layout: page
 permalink: /rethink
 ---
 
-# Notes
+# Rethink
 
 > This page is a WIP
 

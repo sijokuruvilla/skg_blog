@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
+title: Never split the difference
 permalink: /never
 ---
-
-# Never split the difference
 
 Split the difference
 
