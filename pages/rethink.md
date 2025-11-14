@@ -7,12 +7,6 @@ permalink: /rethink
 
 > This page is a WIP
 
-[Projects worth pursing](https://www.sijokuruvilla.in/projects) <br>
-[Board games](https://www.sijokuruvilla.in/boardgames) <br>
-["What does your name mean?"](https://www.sijokuruvilla.in/name) <br>
-
-> This page is a WIP
-
 [Projects worth pursing](projects)  
 [Board games](boardgames)  
 ["What does your name mean?"](name)  
