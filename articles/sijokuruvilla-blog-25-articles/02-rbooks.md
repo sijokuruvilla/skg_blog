@@ -13,7 +13,7 @@ The ones that came top of mind:
 5. Rethinking money
 6. Rise of collaborative consumption
 
-## The (near) full list
+<!-- ## The (near) full list
 
 1. The 4 hour work week Timothy Ferriss
 2. The zero margical cost society Jeremy Rifkin
@@ -59,7 +59,7 @@ The ones that came top of mind:
 42. Joy of compounding
 43. Flywheel effect
 44. Mastery
-45. Never Split the difference
+45. Never Split the difference -->
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
