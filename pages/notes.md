@@ -5,7 +5,7 @@ permalink: /notes
 
 # Notes
 
-> This page is a WIP
+<!-- > This page is a WIP -->
 
 [Projects worth pursing](projects)  
 [Board games](boardgames)  
