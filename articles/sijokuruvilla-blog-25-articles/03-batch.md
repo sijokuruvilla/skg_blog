@@ -10,8 +10,6 @@ In the seminal books on productivity, Getting Things Done, David Allen advocates
 
 Nobody likes the thought of a pile of tasks. This though would be the prerequisite for batching.
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/email" style="text-decoration: none; color: #0366d6;">Next: Common email productivity mistakes →</a>

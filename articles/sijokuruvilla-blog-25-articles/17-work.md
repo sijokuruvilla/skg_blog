@@ -14,8 +14,6 @@ Parkinson law postulates that work expands to the time that we allot for it. Thi
 
 The two laws used in combination can enhance your productivity manifold.
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/braindump" style="text-decoration: none; color: #0366d6;">Next: Braindump →</a>

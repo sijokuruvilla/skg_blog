@@ -14,8 +14,6 @@ Hoax-Slayer is owned and operated by Brett Christensen from his home office in B
 
 Taking a cue from Brett, each of us can also do our bit towards the phenomenon and social menace of hoaxes. Each time we come across questionable information or appeals to forward information, we can commit to take out a moment to do a search & verify. Should it turn out to be a hoax, we could also share back the hoax slaying information. Both these actions, together and individually, can contribute to curbing the propagation of hoaxes. Armed with the sword that is the internet, each of us can be hoax slayers ourselves.
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/priorities" style="text-decoration: none; color: #0366d6;">Next: Priorities →</a>

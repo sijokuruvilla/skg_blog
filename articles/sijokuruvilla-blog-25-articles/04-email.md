@@ -14,8 +14,6 @@ The exercise also made me reflect on the common email productivity mistakes that
 - Not batching the processing / replying to emails
 - Not relying on keyboard shortcuts and not using filters effectively
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/ask" style="text-decoration: none; color: #0366d6;">Next: Asking for favours & Ben Franklin effect →</a>

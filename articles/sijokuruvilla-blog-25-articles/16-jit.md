@@ -12,8 +12,6 @@ We have moved into an information abundant society & economy. Information is ava
 
 Stop organising into bookmarks and paper clippings or downloaded copies of files. Learn how to search and find information at the time of need. Just like how you would with your railway timings.
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/work" style="text-decoration: none; color: #0366d6;">Next: Parkinson Law →</a>

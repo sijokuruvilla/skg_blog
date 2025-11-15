@@ -17,8 +17,6 @@ Even if its only for a single person. Even if that single person is you.
 
 Never let anyone tell you otherwise.
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/cnh" style="text-decoration: none; color: #0366d6;">Next: Calvin & Hobbes →</a>

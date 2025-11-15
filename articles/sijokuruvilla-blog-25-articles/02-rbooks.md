@@ -61,8 +61,6 @@ The ones that came top of mind:
 44. Mastery
 45. Never Split the difference
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/batch" style="text-decoration: none; color: #0366d6;">Next: Allow things to pile up →</a>

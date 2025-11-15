@@ -18,8 +18,6 @@ This got me thinking about the need to advocate for local production of such kno
 
 In summary, start publishing tutorials. You will be helping yourself and also contributing to the development of your country. Your learning retention will be better, reputation will be enhanced and you will also doing your bit towards nation building.
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/boardgames" style="text-decoration: none; color: #0366d6;">Next: Board games →</a>

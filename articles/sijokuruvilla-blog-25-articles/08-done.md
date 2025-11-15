@@ -12,8 +12,6 @@ Language helps us communicate. Words also have the ability to miscommunicate. Wo
 
 When we use words to communicate, we also insert the possibility to miscommunicate.
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/compliment" style="text-decoration: none; color: #0366d6;">Next: Compliment people →</a>

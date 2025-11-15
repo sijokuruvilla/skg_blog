@@ -10,8 +10,6 @@ It was instinctive for me to go to the bank. It was instinctive for Rohan to hav
 
 The bank rep visited us. We continued our coffee chat.
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/possible" style="text-decoration: none; color: #0366d6;">Next: Never said it was easy. Said it was possible. →</a>

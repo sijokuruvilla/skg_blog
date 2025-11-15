@@ -12,8 +12,6 @@ And then sometime soon after my graduation, I got hooked to the non fiction band
 
 Books have been among my biggest mentors all along. There was a phase in which I didn't know to articulate it that way — until I came across a post of Derek Sivers in which he also mentions that his mentors were also books
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://www.sijokuruvilla.in/rbooks" style="text-decoration: none; color: #0366d6;">Next: Books that made me Rethink →</a>
