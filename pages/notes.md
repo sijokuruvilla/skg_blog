@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /notes
-title: Notes
 ---
+
+# Notes
 
 [Books](books)  
 [Books that made me Rethink](rbooks)  
