@@ -14,19 +14,14 @@ Stop organising into bookmarks and paper clippings or downloaded copies of files
 
 ---
 
-<div style="margin-top: 2em; padding: 1em; background: #f5f5f5; border-left: 4px solid #999;">
-  <div style="margin-bottom: 1em;">
-    <strong>Navigation:</strong>
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+  <div>
+    <a href="https://www.sijokuruvilla.in/work" style="text-decoration: none; color: #0366d6;">Next: Parkinson Law →</a>
   </div>
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1em;">
-    <div style="text-align: left;">
-      <a href="https://www.sijokuruvilla.in/slowly" style="color: #0066cc; text-decoration: none;">← Read slowly</a>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.sijokuruvilla.in/" style="color: #0066cc; text-decoration: none;">Notes Home</a>
-    </div>
-    <div style="text-align: right;">
-      <a href="https://www.sijokuruvilla.in/work" style="color: #0066cc; text-decoration: none;">Parkinson Law →</a>
-    </div>
+  <div>
+    <a href="https://www.sijokuruvilla.in/slowly" style="text-decoration: none; color: #0366d6;">← Previous: Read slowly</a>
   </div>
-</div>
+  <div>
+    <a href="https://www.sijokuruvilla.in/notes" style="text-decoration: none; color: #0366d6;">Notes Home</a>
+  </div>
+</nav>
