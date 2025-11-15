@@ -7,7 +7,7 @@ permalink: /testpage
 
 This post triggerd it all
 
-
+minor changes made
 For those of you who are curious and interested, end term paper shared below. Exam duration: 2 hours
 
 
