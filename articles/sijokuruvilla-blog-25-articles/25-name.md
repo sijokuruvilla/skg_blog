@@ -1,17 +1,10 @@
 ---
-layout: page
+layout: post
+title: What does your name mean?
 permalink: /name
-
 ---
 
-# What does your name mean?
-
 Ever since I started traveling and meeting people from outside Kerala, I've been asked this question on multiple occasions: "What does your name Sijo mean?". Let me get to the answer straight away. **It does not mean anything. Its just Sijo!**
-
-<div align="center">
-  <img src="/assets/images/sijoname.webp" alt="Handwritten example of the name Sijo">
-  <p><em>A handwritten example of the name Sijo</em></p>
-</div>
 
 ## The Mallu Naming Tradition
 
@@ -28,8 +21,6 @@ My Dad's younger brother's name is Somy and his wife's name is Mini. With their 
 ## Sijo Beyond Kerala
 
 So that's the story of the name Sijo. After the advent of Google, I discovered that "Sijo" is also a form of Korean short form poetry. I sometimes use this as trivia when the name related conversation presents itself; if I'm in a mood to extend the conversation that is.
-
-*An example of a Sijo poem*
 
 I was also equally amused when I came to realize that such a short and simple name as Sijo could have such diverse pronunciations. The versions I came across included, but were not limited to, Seejo, Sizo, Shizho etc with the most popular one being (way more popular than Sijo itself) Seejo. Infact, given this scenario (and also at times when I'm not really in the mood for answering all those follow up questions) I just resort to introducing myself as George. Dare I say Kuruvilla. I would then have to go on to explain how I and that fast bowler Aby Kuruvilla are not related. This situation arises only if the person gets to get over the oddity of the name Kuruvilla. Sometimes the expressions are as if they were exposed to an absolutely foreign name. (On the Aby Kuruvilla piece for purposes of clarity, no, we are not related).
 
@@ -55,11 +46,21 @@ At the end of the day, the name is just a string of sounds patched together and 
 
 And when seen from that context, I know that the conversation has passed the initial awkward stages and is transitioning into some sort of a comfort stage every time I hear this question come my way: "What does your name mean?"
 
-<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
-  <div>
-    <a href="https://www.sijokuruvilla.in/books" style="text-decoration: none; color: #0366d6;">Next: Books →</a>
+---
+
+<div style="margin-top: 2em; padding: 1em; background: #f5f5f5; border-left: 4px solid #999;">
+  <div style="margin-bottom: 1em;">
+    <strong>Navigation:</strong>
   </div>
-  <div>
-    <a href="https://www.sijokuruvilla.in/boardgames" style="text-decoration: none; color: #0366d6;">← Previous: Board games</a>
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1em;">
+    <div style="text-align: left;">
+      <a href="https://www.sijokuruvilla.in/signature" style="color: #0066cc; text-decoration: none;">← Story of my signature</a>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.sijokuruvilla.in/" style="color: #0066cc; text-decoration: none;">Notes Home</a>
+    </div>
+    <div style="text-align: right;">
+      <a href="https://www.sijokuruvilla.in/books" style="color: #0066cc; text-decoration: none;">Books →</a>
+    </div>
   </div>
-</nav>
+</div>

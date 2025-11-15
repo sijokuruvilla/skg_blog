@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: post
+title: Board games
 permalink: /boardgames
-
 ---
 
-# Wonderful world of board games
-*Sharing my love for board games*
+Sharing my love for board games.
 
 I have always been a fan of board games. Ever since I was a kid and strategy board games that too. Fascination for this format got kindled the first time I came across a business world game at a neighbours place. Those plastic chips that served as money tokens in still etched in memory from that first brush with board games. I was also so young when this incident happened that Rekha and her friend did not allow me me to join them for the game even.
 
@@ -15,18 +14,6 @@ While Monopoly is one of the most popular games and staple games in and around o
 
 After those teenage years came a protracted phase of no board games. (Interestingly, there was a protracted phase of no books even). This I believe could be attributed to the age factor — you tend to get hooked on a lot more to outdoor games and video games in that age. While it was few more years away from NFS and Age of Empires becoming the rage, Contra & Maria had made their appearance by then and was soon to be followed by Road Rash, Call of Duty, Mortal Combat, FIFA etc. Predating all these titles was Prince of Persia — that one magnificent beauty of a game, and our good old Bricks. Cat was among the first games I played during my pre-KG years alongside Bricks on the Amstard PC that we had at home. This segment would not be complete without a reference to that. Not a lot of people I realised later had come across this. Was one spectacular game and truly deserved a lot more popularity.
 
-<div style="display: flex; justify-content: center;">
-  <div style="position: relative; width: 100%; max-width: 560px; height: 0; padding-bottom: 56.25%;">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/2mWZlNOzdv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-</div>
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/2mWZlNOzdv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-
-[Contra (NES) Full Run With No Deaths](https://www.youtube.com/watch?v=2mWZlNOzdv8)
-
-*Cat computer game*
-
 Coming to think of it, there really are a host of competing interests vying for your attention during your teen years. So the decline or near absence in interest in those growing up years in books, board games et al is understandable and can be attributed to these several competing interests. Part of the reason though can be attributed to either availability or awareness of board games titles that can provide the levels of complexity and challenge that is required at a higher age level. In our common accepted knowledge, board games were for kids. When we mention board games, the imagery that pops up in most people's mind is Snakes N Ladders, Ludo, Scrabble etc. The ones who have played or even heard of Game of Life, Scotland Yard etc, you were leagues ahead of your peers in terms of board game exposure.
 
 So for a lot number of years, it was a perfect null phase for board games. Books as well as I had mentioned. I can't think of a single instance of a board game or a single book that I have read in 5 years of my hostel life and 4 years of my engineering college life. And as far as board games go, it took several more years to end that lean patch. (Ending the lean patch with books happened a lot earlier though).
@@ -35,7 +22,7 @@ One of the first books that I read soon after I broke out of the lean patch with
 
 It was around the same time I discovered this website boardgamegeeks. That was the first instance that I realised that and got exposed to many many more titles out there. Hundreds and thousands of titles. Most of the titles that topped their respective categories I had not even heard of. Having said that, my knowledge was limited to the gameplay experiences I have been exposed to so far, so the only action this discovery and realisation resulted in was this website getting clipped to my Evernote.
 
-The next inflection point happened in 2015. I was in Bangalore and one of my colleagues from Startup Village, [Meera](https://medium.com/u/3ab48b1f4942), mentioned to me about this board game place in Koramangala and that I should totally check it out. It's fairly evident that I have been talking about my love for board games although I pretty much had only this Cashflow game to show for it (disproportionate fascination remember). And this reference from her is what led me to check out Dice N Dine. Run by an IIM grad who realised that a corporate career was not one of the things he wanted to get good at, this place was a board game lover's paradise. The promoter is a board game lover and it shows. Walls filled with board games, some 200+ titles if not more and all carefully curated by the promoter himself. A proper board game cafe and not one of those cafes with a few board games. They recommend titles based on the your group and also help you pick up the game.
+The next inflection point happened in 2015. I was in Bangalore and one of my colleagues from Startup Village, Meera, mentioned to me about this board game place in Koramangala and that I should totally check it out. It's fairly evident that I have been talking about my love for board games although I pretty much had only this Cashflow game to show for it (disproportionate fascination remember). And this reference from her is what led me to check out Dice N Dine. Run by an IIM grad who realised that a corporate career was not one of the things he wanted to get good at, this place was a board game lover's paradise. The promoter is a board game lover and it shows. Walls filled with board games, some 200+ titles if not more and all carefully curated by the promoter himself. A proper board game cafe and not one of those cafes with a few board games. They recommend titles based on the your group and also help you pick up the game.
 
 Around the time I had discovered boardgamegeek website, I had stumbled on some online platform that lets you play Settlers of Catan. After getting hooked on to the game, I did try to create a physical version of it with cardboard and straws and all. Not because of my interest in putting this together but only since the title was not available in any of our stores. Given my poor craftsmanship, it was a shoddy implementation but the point here was to highly my efforts that demonstrated keen interest. A board game is fun only when you have the nice high quality pieces as well. So 6 years after my attempted shoddy implementation to play a physical version of Settlers of Catan, I first ended up playing the actual physical board game version with people physically hovering the board at Dice N Dine.
 
@@ -47,19 +34,25 @@ Since rediscovery my joy of board games, I have been spreading the joy to circle
 
 Just a few days back Vishnu ended up tagging me on Twitter after they had an engrossing session of Power Grid, which in turn served as a trigger to write this post. A quick note on PowerGrid — its a master piece. One of the most tastefully designed and well balanced games I have come across till game.
 
-[Thanks to @sijokuruvilla for introducing me to the wonderful world of strategy board games!](https://twitter.com/vishnugopal/status/1000309911861968896)
-
-*Vishnu's tweet that triggered this post*
-
 For those looking at where to start, my guidance for gateway games would be Settlers of Catan, Ticket to Ride and Carcassonne. Acquire and Power Grid can then follow. And should anyone wish to get themselves initiated into all this by joining in for a few rounds of games, just reach me and we can explore how it can be facilitated. After working on Breakfast Club the past couple years, I have already professed a keen interest in building out an equivalent for Board Games (Board game club?). And as a trivia, Saleeh has already earmarked a table in his new office for board games so we can always gather there.
 
 I do have a lot more thoughts surrounding board games — and strategy board games that too. But for now, I'll just leave it at that. Closing with the strong advocacy that anyone who hasn't tried it yet and is even mildly interested, you should absolutely check out board games. Every child and every adult needs and deserves to be introduced to this fascinatingly amazing world.
 
-<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
-  <div>
-    <a href="https://www.sijokuruvilla.in/name" style="text-decoration: none; color: #0366d6;">Next: "What does your name mean?" →</a>
+---
+
+<div style="margin-top: 2em; padding: 1em; background: #f5f5f5; border-left: 4px solid #999;">
+  <div style="margin-bottom: 1em;">
+    <strong>Navigation:</strong>
   </div>
-  <div>
-    <a href="https://www.sijokuruvilla.in/projects" style="text-decoration: none; color: #0366d6;">← Previous: Projects worth pursuing</a>
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1em;">
+    <div style="text-align: left;">
+      <a href="https://www.sijokuruvilla.in/import-substitution" style="color: #0066cc; text-decoration: none;">← Rethinking import substitution in the knowledge age</a>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.sijokuruvilla.in/" style="color: #0066cc; text-decoration: none;">Notes Home</a>
+    </div>
+    <div style="text-align: right;">
+      <a href="https://www.sijokuruvilla.in/signature" style="color: #0066cc; text-decoration: none;">Story of my signature →</a>
+    </div>
   </div>
-</nav>
+</div>

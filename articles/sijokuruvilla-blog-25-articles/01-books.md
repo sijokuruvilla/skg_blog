@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
+title: Books
 permalink: /books
---- 
-
-# Books
+---
 
 Books have a very interesting power to make you think and even change the way you think. Its power to transform us at a much deeper level has always amazed me.
 
@@ -13,13 +12,19 @@ And then sometime soon after my graduation, I got hooked to the non fiction band
 
 Books have been among my biggest mentors all along. There was a phase in which I didn't know to articulate it that way — until I came across a post of Derek Sivers in which he also mentions that his mentors were also books
 
-[Read](https://medium.com/@sijokuruvilla/books-read-71e0209e8041) (Medium) / [Read](https://notes.sijokuruvilla.in/p/d2c76eb8-60a4-4bf0-b2fb-ca437a33a480) (Substack)
+---
 
-<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
-  <div>
-    <a href="https://www.sijokuruvilla.in/evernote" style="text-decoration: none; color: #0366d6;">Next: Evernote visit →</a>
+<div style="margin-top: 2em; padding: 1em; background: #f5f5f5; border-left: 4px solid #999;">
+  <div style="margin-bottom: 1em;">
+    <strong>Navigation:</strong>
   </div>
-  <div>
-    <a href="https://www.sijokuruvilla.in/name" style="text-decoration: none; color: #0366d6;">← Previous: What does your name mean?</a>
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1em;">
+    <span></span>
+    <div style="text-align: center;">
+      <a href="https://www.sijokuruvilla.in/" style="color: #0066cc; text-decoration: none;">← Notes Home</a>
+    </div>
+    <div style="text-align: right;">
+      <a href="https://www.sijokuruvilla.in/rbooks" style="color: #0066cc; text-decoration: none;">Next: Books that made me Rethink →</a>
+    </div>
   </div>
-</nav>
+</div>
