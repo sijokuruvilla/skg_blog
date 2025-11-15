@@ -1,9 +1,8 @@
 ---
 layout: post
+title: Rule of three
 permalink: /rule-of-three
 ---
-
-# Rule of three
 
 Apply a rule of three to execution. Make it your default focussing question.
 
