@@ -5,8 +5,6 @@ permalink: /notes
 
 # Notes
 
-<!-- > This page is a WIP -->
-
 [Projects worth pursing](projects)  
 [Board games](boardgames)  
 ["What does your name mean?"](name)  
