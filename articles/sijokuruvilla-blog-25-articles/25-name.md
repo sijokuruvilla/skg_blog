@@ -46,12 +46,7 @@ At the end of the day, the name is just a string of sounds patched together and 
 
 And when seen from that context, I know that the conversation has passed the initial awkward stages and is transitioning into some sort of a comfort stage every time I hear this question come my way: "What does your name mean?"
 
----
-
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
-  <div>
-    <a href="https://www.sijokuruvilla.in/books" style="text-decoration: none; color: #0366d6;">Next: Books →</a>
-  </div>
   <div>
     <a href="https://www.sijokuruvilla.in/signature" style="text-decoration: none; color: #0366d6;">← Previous: Story of my signature</a>
   </div>
