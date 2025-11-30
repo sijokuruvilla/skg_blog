@@ -29,7 +29,8 @@ permalink: /notes
 [Rethinking import substitution in the knowledge age](import-substitution)  
 [Board games](boardgames)  
 [Story of my signature](signature)  
-["What does your name mean?"](name)
+["What does your name mean?"](name)  
+[I once travelled to Singapore on a 1 dollar ticket](singapore)
 
 
 
