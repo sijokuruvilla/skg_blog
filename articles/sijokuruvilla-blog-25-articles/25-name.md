@@ -48,6 +48,9 @@ And when seen from that context, I know that the conversation has passed the ini
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="https://www.sijokuruvilla.in/singapore" style="text-decoration: none; color: #0366d6;">Next: I once travelled to Singapore on a 1 dollar ticket →</a>
+  </div>
+  <div>
     <a href="https://www.sijokuruvilla.in/signature" style="text-decoration: none; color: #0366d6;">← Previous: Story of my signature</a>
   </div>
   <div>
